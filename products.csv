@@ -1,0 +1,501 @@
+product_id,product_name
+1,Adidas Sports Shoes
+2,Apple iPhone 14
+3,Fresh Bananas 1kg
+4,Samsung Galaxy S21
+5,Apple iPhone 13
+6,Nike Running Shoes
+7,Nike Running Shoes
+8,Samsung Galaxy S22
+9,Orgnic Apples 1kg
+10,Nik Running Shoes
+11,H&M Cotton T-Shirt
+12,Nik Running Shoes
+13,Apple iPhone 13
+14,Zara Women's Dress
+15,Fresh Bananas 1kg
+16,Fresh Bananas 1kg
+17,OnePlus 11
+18,Samsung Galaxy S21
+19,H&M Cotton T-Shirt
+20,Fres Bananas 1kg
+21,Samsung Galaxy S22
+22,Apple iPhone 14 Pro
+23,Amul Butter 500g
+24,Nike Running Shoes
+25,Apple iPhone 13
+26,Google Pixel 7
+27,Basmati Rice 5kg
+28,Basmati Rice 5kg
+29,Puma Sneakers
+30,Zara Women's Dress
+31,Dell XPS 13 Laptop
+32,Puma Sneakers
+33,Apple iPhone 14
+34,Adidas Sports Shoes
+35,Nik Running Shoes
+36,OnePlus 11
+37,Fres Bananas 1kg
+38,Dell XPS 13 Laptop
+39,Nik Running Shoes
+40,Adidas Sports Shoes
+41,Apple iPhone 13
+42,Apple iPhone 13
+43,HP Pavilion Laptop
+44,Samsung Galaxy S21
+45,OnePlus 11
+46,Samsung Galaxy S21
+47,Apple iPhone 13
+48,Adidas Sports Shoes
+49,Nik Running Shoes
+50,Nike Running Shoes
+51,Apple iPhone 13
+52,Fres Bananas 1kg
+53,Samsung Galaxy S22
+54,Apple iPhone 13
+55,Fresh Bananas 1kg
+56,Google Pixel 7
+57,Dell XPS 13 Laptop
+58,Levi's Men's Jeans
+59,Apple MacBook Air M2
+60,Apple iPhone 14 Pro
+61,Samzung Galaxy S21
+62,Apple iPhone 14
+63,OnePlus 11
+64,OnePlus 11
+65,HP Pavilion Laptop
+66,Apple iPhone 14 Pro
+67,Nike Running Shoes
+68,Basmati Rice 5kg
+69,Fresh Bananas 1kg
+70,Fresh Bananas 1kg
+71,Nik Running Shoes
+72,Samsung Galaxy S22
+73,Levi's Men's Jeans
+74,Fresh Bananas 1kg
+75,Google Pixel 7
+76,Aple iPhone 14
+77,H&M Cotton T-Shirt
+78,OnePlus 11
+79,HP Pavilion Laptop
+80,Google Pixel 7
+81,Samsung Galaxy S21
+82,Zara Women's Dress
+83,Apple iPhone 13
+84,Adiddas Sports Shoes
+85,Adiddas Sports Shoes
+86,Apple MacBook Air M2
+87,Puma Sneakers
+88,H&M Cotton T-Shirt
+89,Google Pixel 7
+90,Nike Running Shoes
+91,Basmati Rice 5kg
+92,Samsung Galaxy S22
+93,Apple iPhone 14 Pro
+94,Puma Sneakers
+95,Levi's Men's Jeans
+96,Puma Sneakers
+97,OnePlus 11
+98,Fresh Bananas 1kg
+99,Fres Bananas 1kg
+100,H&M Cotton T-Shirt
+101,Samzung Galaxy S21
+102,Dell XPS 13 Laptop
+103,Samzung Galaxy S21
+104,Dell XPS 13 Laptop
+105,Nike Running Shoes
+106,Organic Apples 1kg
+107,Levi's Men's Jeans
+108,Levi's Men's Jeans
+109,H&M Cotton T-Shirt
+110,Puma Sneakers
+111,Samsung Galaxy S21
+112,Apple iPhone 14
+113,HP Pavilion Laptop
+114,H&M Cotton T-Shirt
+115,Dell XPS 13 Laptop
+116,Aple iPhone 14
+117,Apple iPhone 14 Pro
+118,Google Pixel 7
+119,Organic Apples 1kg
+120,Basmati Rice 5kg
+121,Samsung Galaxy S22
+122,Orgnic Apples 1kg
+123,Nike Running Shoes
+124,Zara Women's Dress
+125,Samzung Galaxy S21
+126,Nik Running Shoes
+127,Aple iPhone 14
+128,Apple iPhone 13
+129,HP Pavilion Laptop
+130,Aple iPhone 14
+131,Apple iPhone 14
+132,Adiddas Sports Shoes
+133,Fresh Bananas 1kg
+134,Zara Women's Dress
+135,Nike Running Shoes
+136,Nike Running Shoes
+137,Zara Women's Dress
+138,Organic Apples 1kg
+139,Nike Running Shoes
+140,Orgnic Apples 1kg
+141,Amul Butter 500g
+142,Samsung Galaxy S21
+143,Samsung Galaxy S22
+144,OnePlus 11
+145,Apple iPhone 14
+146,Levi's Men's Jeans
+147,Basmati Rice 5kg
+148,Apple MacBook Air M2
+149,Apple iPhone 13
+150,Google Pixel 7
+151,HP Pavilion Laptop
+152,Apple MacBook Air M2
+153,Zara Women's Dress
+154,Zara Women's Dress
+155,Levi's Men's Jeans
+156,Nike Running Shoes
+157,Dell XPS 13 Laptop
+158,Zara Women's Dress
+159,Organic Apples 1kg
+160,Apple MacBook Air M2
+161,Nik Running Shoes
+162,Apple iPhone 14
+163,Nik Running Shoes
+164,Apple iPhone 14
+165,Apple iPhone 14
+166,Apple iPhone 14
+167,Levi's Men's Jeans
+168,Amul Butter 500g
+169,Aple iPhone 14
+170,Samsung Galaxy S22
+171,Samsung Galaxy S21
+172,Nik Running Shoes
+173,Orgnic Apples 1kg
+174,Dell XPS 13 Laptop
+175,Basmati Rice 5kg
+176,Basmati Rice 5kg
+177,Aple iPhone 14
+178,Google Pixel 7
+179,Orgnic Apples 1kg
+180,Basmati Rice 5kg
+181,Apple iPhone 14
+182,Zara Women's Dress
+183,OnePlus 11
+184,Samsung Galaxy S22
+185,H&M Cotton T-Shirt
+186,Adiddas Sports Shoes
+187,Adidas Sports Shoes
+188,H&M Cotton T-Shirt
+189,Dell XPS 13 Laptop
+190,Fres Bananas 1kg
+191,Samsung Galaxy S22
+192,Dell XPS 13 Laptop
+193,HP Pavilion Laptop
+194,H&M Cotton T-Shirt
+195,Google Pixel 7
+196,Amul Butter 500g
+197,Apple iPhone 14
+198,Apple iPhone 14 Pro
+199,H&M Cotton T-Shirt
+200,OnePlus 11
+201,Dell XPS 13 Laptop
+202,HP Pavilion Laptop
+203,Puma Sneakers
+204,Zara Women's Dress
+205,Apple iPhone 13
+206,Nik Running Shoes
+207,Nike Running Shoes
+208,Fresh Bananas 1kg
+209,Apple iPhone 14 Pro
+210,Google Pixel 7
+211,Orgnic Apples 1kg
+212,HP Pavilion Laptop
+213,OnePlus 11
+214,Dell XPS 13 Laptop
+215,Amul Butter 500g
+216,Fres Bananas 1kg
+217,Dell XPS 13 Laptop
+218,Apple iPhone 14 Pro
+219,H&M Cotton T-Shirt
+220,Organic Apples 1kg
+221,Apple MacBook Air M2
+222,Nik Running Shoes
+223,Dell XPS 13 Laptop
+224,Apple iPhone 14
+225,Google Pixel 7
+226,Aple iPhone 14
+227,OnePlus 11
+228,Samsung Galaxy S22
+229,Puma Sneakers
+230,OnePlus 11
+231,H&M Cotton T-Shirt
+232,Puma Sneakers
+233,Levi's Men's Jeans
+234,Apple iPhone 14 Pro
+235,Orgnic Apples 1kg
+236,Apple iPhone 14 Pro
+237,Amul Butter 500g
+238,Nik Running Shoes
+239,Zara Women's Dress
+240,Organic Apples 1kg
+241,Nike Running Shoes
+242,Orgnic Apples 1kg
+243,Zara Women's Dress
+244,OnePlus 11
+245,Fresh Bananas 1kg
+246,Apple iPhone 14 Pro
+247,Apple MacBook Air M2
+248,Puma Sneakers
+249,Apple iPhone 13
+250,Basmati Rice 5kg
+251,Fresh Bananas 1kg
+252,Apple MacBook Air M2
+253,Levi's Men's Jeans
+254,Fresh Bananas 1kg
+255,Nik Running Shoes
+256,Orgnic Apples 1kg
+257,Basmati Rice 5kg
+258,Nik Running Shoes
+259,Aple iPhone 14
+260,Basmati Rice 5kg
+261,Apple MacBook Air M2
+262,Fresh Bananas 1kg
+263,Fresh Bananas 1kg
+264,Organic Apples 1kg
+265,Nik Running Shoes
+266,Dell XPS 13 Laptop
+267,Basmati Rice 5kg
+268,HP Pavilion Laptop
+269,Samzung Galaxy S21
+270,Aple iPhone 14
+271,Zara Women's Dress
+272,H&M Cotton T-Shirt
+273,Nik Running Shoes
+274,Nik Running Shoes
+275,Basmati Rice 5kg
+276,Samzung Galaxy S21
+277,Aple iPhone 14
+278,Adidas Sports Shoes
+279,Google Pixel 7
+280,Organic Apples 1kg
+281,Nike Running Shoes
+282,Levi's Men's Jeans
+283,OnePlus 11
+284,Samsung Galaxy S21
+285,Levi's Men's Jeans
+286,OnePlus 11
+287,Organic Apples 1kg
+288,Dell XPS 13 Laptop
+289,Adidas Sports Shoes
+290,Samzung Galaxy S21
+291,Levi's Men's Jeans
+292,Basmati Rice 5kg
+293,H&M Cotton T-Shirt
+294,Organic Apples 1kg
+295,Zara Women's Dress
+296,Levi's Men's Jeans
+297,Organic Apples 1kg
+298,Zara Women's Dress
+299,Nike Running Shoes
+300,Zara Women's Dress
+301,Puma Sneakers
+302,Basmati Rice 5kg
+303,Basmati Rice 5kg
+304,Apple iPhone 14
+305,Zara Women's Dress
+306,Apple iPhone 14
+307,Fresh Bananas 1kg
+308,Adiddas Sports Shoes
+309,Apple iPhone 14 Pro
+310,Puma Sneakers
+311,Fres Bananas 1kg
+312,HP Pavilion Laptop
+313,Fresh Bananas 1kg
+314,Adiddas Sports Shoes
+315,Adiddas Sports Shoes
+316,Apple iPhone 14
+317,Organic Apples 1kg
+318,H&M Cotton T-Shirt
+319,Apple iPhone 14 Pro
+320,Apple iPhone 14 Pro
+321,Google Pixel 7
+322,Nike Running Shoes
+323,Google Pixel 7
+324,Amul Butter 500g
+325,Apple iPhone 13
+326,Puma Sneakers
+327,Apple MacBook Air M2
+328,Apple iPhone 14 Pro
+329,Apple iPhone 13
+330,OnePlus 11
+331,Aple iPhone 14
+332,Dell XPS 13 Laptop
+333,Orgnic Apples 1kg
+334,Adidas Sports Shoes
+335,Google Pixel 7
+336,Dell XPS 13 Laptop
+337,Fres Bananas 1kg
+338,Dell XPS 13 Laptop
+339,Dell XPS 13 Laptop
+340,Levi's Men's Jeans
+341,Basmati Rice 5kg
+342,Nik Running Shoes
+343,OnePlus 11
+344,Puma Sneakers
+345,Orgnic Apples 1kg
+346,HP Pavilion Laptop
+347,Adiddas Sports Shoes
+348,Samzung Galaxy S21
+349,Adidas Sports Shoes
+350,Adidas Sports Shoes
+351,HP Pavilion Laptop
+352,Apple MacBook Air M2
+353,Fresh Bananas 1kg
+354,Apple iPhone 13
+355,Amul Butter 500g
+356,Fres Bananas 1kg
+357,Apple iPhone 14 Pro
+358,Nike Running Shoes
+359,Samsung Galaxy S21
+360,Fresh Bananas 1kg
+361,Dell XPS 13 Laptop
+362,Zara Women's Dress
+363,Fresh Bananas 1kg
+364,Fres Bananas 1kg
+365,Google Pixel 7
+366,Amul Butter 500g
+367,Orgnic Apples 1kg
+368,Orgnic Apples 1kg
+369,Fres Bananas 1kg
+370,Google Pixel 7
+371,Samsung Galaxy S22
+372,Orgnic Apples 1kg
+373,Fresh Bananas 1kg
+374,Dell XPS 13 Laptop
+375,Fresh Bananas 1kg
+376,H&M Cotton T-Shirt
+377,Organic Apples 1kg
+378,Adiddas Sports Shoes
+379,Google Pixel 7
+380,Basmati Rice 5kg
+381,Apple iPhone 13
+382,Basmati Rice 5kg
+383,Basmati Rice 5kg
+384,Fresh Bananas 1kg
+385,Nik Running Shoes
+386,Apple iPhone 14
+387,Aple iPhone 14
+388,Nike Running Shoes
+389,Aple iPhone 14
+390,Fresh Bananas 1kg
+391,Puma Sneakers
+392,Orgnic Apples 1kg
+393,H&M Cotton T-Shirt
+394,Apple iPhone 13
+395,Nike Running Shoes
+396,Fres Bananas 1kg
+397,Dell XPS 13 Laptop
+398,Nike Running Shoes
+399,Organic Apples 1kg
+400,Fresh Bananas 1kg
+401,Apple iPhone 14
+402,Fres Bananas 1kg
+403,Nike Running Shoes
+404,Aple iPhone 14
+405,Adidas Sports Shoes
+406,Apple MacBook Air M2
+407,Basmati Rice 5kg
+408,Apple iPhone 14
+409,OnePlus 11
+410,Levi's Men's Jeans
+411,Samzung Galaxy S21
+412,Fres Bananas 1kg
+413,Adidas Sports Shoes
+414,Samsung Galaxy S22
+415,Organic Apples 1kg
+416,Fres Bananas 1kg
+417,Apple iPhone 14
+418,Apple iPhone 13
+419,Apple iPhone 14 Pro
+420,Nik Running Shoes
+421,Levi's Men's Jeans
+422,Apple MacBook Air M2
+423,Zara Women's Dress
+424,Orgnic Apples 1kg
+425,Amul Butter 500g
+426,Fres Bananas 1kg
+427,Puma Sneakers
+428,Adiddas Sports Shoes
+429,Dell XPS 13 Laptop
+430,Google Pixel 7
+431,Zara Women's Dress
+432,Levi's Men's Jeans
+433,Nik Running Shoes
+434,Fresh Bananas 1kg
+435,OnePlus 11
+436,Apple iPhone 14 Pro
+437,Adidas Sports Shoes
+438,Samsung Galaxy S22
+439,Nik Running Shoes
+440,Apple iPhone 14 Pro
+441,Nike Running Shoes
+442,Organic Apples 1kg
+443,Apple iPhone 13
+444,Basmati Rice 5kg
+445,Amul Butter 500g
+446,Fres Bananas 1kg
+447,Apple iPhone 14
+448,Zara Women's Dress
+449,Dell XPS 13 Laptop
+450,Organic Apples 1kg
+451,Apple iPhone 13
+452,Organic Apples 1kg
+453,Aple iPhone 14
+454,Apple iPhone 14 Pro
+455,Adiddas Sports Shoes
+456,Fresh Bananas 1kg
+457,Fres Bananas 1kg
+458,Adiddas Sports Shoes
+459,Zara Women's Dress
+460,Google Pixel 7
+461,Dell XPS 13 Laptop
+462,Orgnic Apples 1kg
+463,Basmati Rice 5kg
+464,HP Pavilion Laptop
+465,Aple iPhone 14
+466,Apple MacBook Air M2
+467,Orgnic Apples 1kg
+468,Adidas Sports Shoes
+469,Apple iPhone 14
+470,Apple iPhone 14
+471,Apple iPhone 13
+472,Apple iPhone 14 Pro
+473,Nike Running Shoes
+474,Zara Women's Dress
+475,Nik Running Shoes
+476,H&M Cotton T-Shirt
+477,HP Pavilion Laptop
+478,Puma Sneakers
+479,Nik Running Shoes
+480,Nik Running Shoes
+481,Apple iPhone 14
+482,Apple iPhone 14
+483,Zara Women's Dress
+484,Organic Apples 1kg
+485,Orgnic Apples 1kg
+486,Google Pixel 7
+487,Samsung Galaxy S21
+488,Organic Apples 1kg
+489,Apple iPhone 14
+490,Nike Running Shoes
+491,Dell XPS 13 Laptop
+492,Apple MacBook Air M2
+493,Samsung Galaxy S22
+494,Amul Butter 500g
+495,Samzung Galaxy S21
+496,Apple iPhone 14 Pro
+497,H&M Cotton T-Shirt
+498,Apple MacBook Air M2
+499,HP Pavilion Laptop
+500,Puma Sneakers
